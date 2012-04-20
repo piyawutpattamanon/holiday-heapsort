@@ -3,8 +3,12 @@ Test Problem #1 : Heap Sort
 implemented using binary tree
 - just for the challenge of not using arrays as the data structure :p
 - I think the code would be a lot shorter by just simply using arrays :p
-- using ruby 1.9 though (won't run in ruby 1.8)
+
+using ruby 1.9 though (won't run in ruby 1.8)
 
 Files :
 - heap_sort.rb : the library
-- main.rb : run the test here
+- main.rb : run using this file
+
+To run :
+ruby main.rb
